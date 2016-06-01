@@ -1,7 +1,9 @@
 /**
  * GL Plugin
  * 
- * Version Date Author Remarks 1.00 02 Apr 2015 Kevin
+ * Version Date Author Remarks 
+ * 1.00 02 Apr 2015 Kevin	Created
+ * 1.01 01 May 2016 Kevin	Changed
  * 
  */
 
