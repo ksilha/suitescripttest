@@ -1,5 +1,5 @@
 /**
- * Module Description
+ * GL Plugin
  * 
  * Version Date Author Remarks 1.00 02 Apr 2015 Kevin
  * 
